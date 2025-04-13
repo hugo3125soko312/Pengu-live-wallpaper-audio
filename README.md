@@ -1,6 +1,9 @@
 # Pengu-live-wallpaper-audio
 pengu loader .js plugin for having background wallpaper with audio
 
+**Releases:**
+Grab the code from this repo, I wont add releases because I am lazy
+
 **How to use:**
 
 1.  Make sure you have **Pengu Loader** installed.
