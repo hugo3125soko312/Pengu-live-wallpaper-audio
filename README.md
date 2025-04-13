@@ -17,4 +17,7 @@ Grab them from this [repo history](https://github.com/hugo3125soko312/Pengu-live
 
 **Found a problem?** Let me know in the "Issues" tab or in the discord thread.
 
-Have fun! 🤠🎶
+Have fun! 🗿🗿🗣️🗣️🗿🗣️🗣️
+## Disclaimer
+
+This plugin is not affiliated with or endorsed by Riot Games. Use at your own risk. This project is maintained in my free time. If you find this plugin helpful, consider giving the repository a star!
