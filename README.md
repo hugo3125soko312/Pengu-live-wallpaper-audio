@@ -9,7 +9,7 @@ Grab them from this [repo history](https://github.com/hugo3125soko312/Pengu-live
 1.  Make sure you have [**Pengu Loader**](https://pengu.lol) installed.
 2.  [**Download**](https://downgit.github.io/#/home?url=https://github.com/hugo3125soko312/Pengu-live-wallpaper-audio/tree/main/wallpaper-with-audio) this plugin.
 4.  **Open** the location of Pengu loader files. `(C:\Program Files\Pengu Loader\plugins)`
-5.  **Unpack** the folder from the zip and place them into `\plugins\`
+5.  **Unpack** the folder from the zip and place it into `\plugins\`
 6.  Customize the video and audio by editing `\Pengu Loader\plugins\wallpaper-with-audio\config.js` file.
 7.  Enable Pengu loader and launch leauge.
 
