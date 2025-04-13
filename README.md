@@ -6,7 +6,7 @@ Grab them from this [repo history](https://github.com/hugo3125soko312/Pengu-live
 
 **How to use:**
 
-1.  Make sure you have **Pengu Loader** installed.
+1.  Make sure you have [**Pengu Loader**](https://pengu.lol) installed.
 2.  **Download** this plugin.
 4.  **Open** the location of Pengu loader files. `(C:\Program Files\Pengu Loader\plugins)`
 5.  **Unpack** the folder from the zip and place them into `\plugins\`
