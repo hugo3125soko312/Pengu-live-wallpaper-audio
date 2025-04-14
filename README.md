@@ -10,6 +10,7 @@ pengu loader .js plugin for having background wallpaper with audio
 5.  **Unpack** the folder from the zip and place it into `\plugins\`
 6.  Customize the video and audio by editing `\Pengu Loader\plugins\wallpaper-with-audio\config.js` file.
 7.  Enable Pengu loader and launch leauge.
+
 **Archive releases:**
 Grab them from this [repo history](https://github.com/hugo3125soko312/Pengu-live-wallpaper-audio/commits/main/wallpaper-with-audio)
 
